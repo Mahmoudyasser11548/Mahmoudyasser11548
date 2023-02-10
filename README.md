@@ -38,5 +38,8 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahmoudyasser11548&theme=dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+<div>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahmoudyasser11548&theme=dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoudyasser11548)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
