@@ -15,11 +15,11 @@
 
 I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Front-end Developer and building User Interfaces for websites.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Complete any project with high accuracy.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I make template and challenges from front-end mentor.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mahmoud-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-yasser-06aa30231)
 
