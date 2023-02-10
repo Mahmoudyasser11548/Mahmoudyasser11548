@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://logosbynick.com/wp-content/uploads/2022/07/Animation.gif" width="350" height="250"/>
+  <img src="https://media1.giphy.com/media/M9gbBd9nbDrOTu1Mqx/200w.gif" />
   
 <div id="badges">
     <a href="https://www.linkedin.com/in/mahmoud-yasser-06aa30231">
