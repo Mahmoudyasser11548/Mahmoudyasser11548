@@ -15,15 +15,27 @@
 
 ## About me:
 
-I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
+I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt. Dedicated and innovative Frontend Developer with 2 years of experience in creating dynamic and responsive web applications. Proficient in modern front-end technologies and frameworks, with a keen eye for detail and a passion for delivering exceptional user experiences. Strong problem-solving skills, a collaborative team player, and a continuous learner.
 
 - :telescope: I’m working as a Front-end Developer and building User Interfaces for websites.
 
 - :seedling: Complete any project with high accuracy.
 
-- :zap: In my free time, I make template and challenges from front-end mentor.
+- :zap: In my free time, I make templates and challenges from a front-end mentor.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mahmoud-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-yasser-06aa30231)
+
+### Experience
+
+**Frontend Developer (Web & Mobile)**  
+*TDS Information Technology*  
+*November 2023 - Present*
+
+- Developed and maintained user-friendly web applications using React.
+- Created cross-platform mobile applications using React Native.
+- Collaborated with backend developers to implement new features and improve existing functionality.
+- Implemented unit testing with Jest to ensure component and module reliability.
+- Integrated backend services using RESTful APIs.
 
 <h2> :hammer_and_wrench: Languages and Tools :</h2>
 <div>
