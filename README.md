@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/M9gbBd9nbDrOTu1Mqx/200w.gif" />
-  
+  [![Linkedin Badge](https://img.shields.io/badge/-Mahmoud-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-yasser-dev)
+
 <div id="badges">
     <a href="https://www.linkedin.com/in/mahmoud-yasser-06aa30231">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
