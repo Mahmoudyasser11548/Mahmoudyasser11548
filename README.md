@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/M9gbBd9nbDrOTu1Mqx/200w.gif" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2tuaDB6bzgyY3JjZzJwemxoaHJ1aW11Nmg5cTJzY3YyNTBuZTQ0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
 
 <div id="badges">
     <a href="https://www.linkedin.com/in/mahmoud-yasser-06aa30231">
