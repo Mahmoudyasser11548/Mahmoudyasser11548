@@ -12,7 +12,7 @@
 
 ## About me:
 
-I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt. Dedicated and innovative front-end developer with 2 years of experience creating dynamic and responsive web applications. Proficient in modern front-end technologies and frameworks, with a keen eye for detail and a passion for delivering exceptional user experiences. Strong problem-solving skills, a collaborative team player, and a continuous learner.
+I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt. Dedicated and innovative with 2 years of experience creating dynamic and responsive web and mobile applications. Proficient in modern front-end technologies and frameworks, with a keen eye for detail and a passion for delivering exceptional user experiences. Strong problem-solving skills, a collaborative team player, and a continuous learner.
 
 - :telescope: I’m working as a Front-end Developer and building User Interfaces for websites.
 
