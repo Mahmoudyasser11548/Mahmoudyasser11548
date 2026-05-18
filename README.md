@@ -28,11 +28,21 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 *TDS Information Technology*  
 *November 2023 - Present*
 
-- Developed and maintained user-friendly web applications using React.
-- Created cross-platform mobile applications using React Native.
-- Collaborated with backend developers to implement new features and improve existing functionality.
-- Implemented unit testing with Jest to ensure component and module reliability.
-- Integrated backend services using RESTful APIs.
+- Developed and maintained scalable web dashboards and mobile applications using React and React Native. 
+- Built reusable, modular UI components to improve development efficiency and maintain consistency across projects. 
+- Implemented unit testing with Jest, increasing code reliability and reducing bugs in production. 
+- Integrated REST APIs and ensured smooth communication between frontend and backend systems. 
+- Optimized performance and improved application responsiveness through efficient rendering and state management. 
+- Collaborated with cross-functional teams to deliver high-quality features aligned with business requirements.
+
+**Frontend Developer**  
+*White clouds aviation*  
+*July 2024 - September 2024*
+
+- Developed responsive and user-friendly web interfaces using React. 
+- Improved UI/UX by redesigning layouts and enhancing usability. 
+- Worked closely with stakeholders to deliver features matching business needs. 
+- Ensured cross-browser compatibility and mobile responsiveness.
 
 <h2> :hammer_and_wrench: Languages and Tools :</h2>
 <div>
@@ -43,6 +53,7 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/reactnative/reactnative-original.svg" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
@@ -50,6 +61,7 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cpp/cpp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
 </div>
 
 
