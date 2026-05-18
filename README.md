@@ -10,17 +10,25 @@
 
 ### Hi there 👋
 
-## About me:
+# Hi there 👋, I'm Mahmoud Yasser
 
-I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt. Dedicated and innovative with 2 years of experience creating dynamic and responsive web and mobile applications. Proficient in modern front-end technologies and frameworks, with a keen eye for detail and a passion for delivering exceptional user experiences. Strong problem-solving skills, a collaborative team player, and a continuous learner.
+## 💼 Frontend Software Engineer
 
-- :telescope: I’m working as a Front-end Developer and building User Interfaces for websites.
+I’m a **Frontend Developer from Egypt 🇪🇬** with 2+ years of experience building modern, scalable, and high-performance web and mobile applications.
 
-- :seedling: Complete any project with high accuracy.
+I specialize in creating **responsive, user-focused interfaces** using modern technologies, with strong attention to **performance, clean architecture, and UI/UX details**.
 
-- :zap: In my free time, I make templates and challenges from a front-end mentor.
+---
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mahmoud-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-yasser-06aa30231)
+## 🚀 About Me
+
+- 🔭 Currently working as a **Frontend Developer**, building scalable and responsive user interfaces  
+- ⚡ Focused on delivering **high-quality, pixel-perfect, and performant applications**  
+- 🌱 Continuously improving my skills in **advanced frontend architecture and modern technologies**  
+- 🧠 Strong problem-solving mindset with a passion for clean and maintainable code  
+- 🎯 Dedicated to writing **reusable, scalable, and production-ready components**
+
+---
 
 ### Experience
 
